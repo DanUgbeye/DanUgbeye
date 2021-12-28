@@ -1,5 +1,9 @@
 - 👋 Hi, I’m @DanUgbeye
-- I'm good at using c++ programming language and also Iot programming using Arduino.
+- I'm a Web developer with a really good knowledge of HTML, CSS and Javascript.
+- I've got experience working with bootstrap 5 and tailwind css.
+- I'm really good at using c++ programming language
+- I also know how to program Iot projects using Arduino.
+
 - 👀 I’m interested in learning Django soon
 - 🌱 I’m currently ReactJs for Front-end Development and Node.js for Back-end Development
 - 💞️ I’m looking to collaborate on working on any Web project with a team
