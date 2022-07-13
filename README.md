@@ -9,7 +9,7 @@
 - 📫 How to reach me 
   - Voice Call and WhatsApp: +234 909 536 9485
   - Twitter: https://twitter.com/Ugbeye_Daniel
-  - LinkedIn: https://linkedin.com/danielugbeye
+  - LinkedIn: https://linkedin.com/in/danielugbeye
 - 👀 I’m interested in learning Django soon
 - 
 <!---
