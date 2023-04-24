@@ -7,9 +7,7 @@
 - 🌱 I’m currently using ReactJs for Front-end Development and Node.js with Express js for Back-end Development
 - 💞️ I’m looking to collaborate on working on any Web project with a team
 - 📫 How to reach me 
-  - Voice Call and WhatsApp: +234 909 536 9485
-  - Twitter: https://twitter.com/Ugbeye_Daniel
-  - LinkedIn: https://linkedin.com/in/danielugbeye
+  - Check the social links on my profile
 - 👀 I’m interested in learning Django soon
 - 
 <!---
