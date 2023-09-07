@@ -76,7 +76,7 @@
     alt="Typescript"
     title="Typescript"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- JAVASCRIPT -->
@@ -86,7 +86,7 @@
     alt="Javascript"
     title="Javascript"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- NODE -->
@@ -96,7 +96,7 @@
     alt="Node JS"
     title="Node JS"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- NEXT JS -->
@@ -106,7 +106,7 @@
     alt="Next JS"
     title="Next JS"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- REACT -->
@@ -116,7 +116,7 @@
     alt="React"
     title="React"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- HTML -->
@@ -126,7 +126,7 @@
     alt="HTML"
     title="HTML"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- CSS -->
@@ -136,7 +136,7 @@
     alt="CSS"
     title="CSS"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- EXPRESS JS -->
@@ -146,7 +146,7 @@
     alt="Express JS"
     title="Express JS"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- FIREBASE -->
@@ -156,7 +156,7 @@
     alt="Firebase"
     title="Firebase"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- TAILWIND CSS -->
@@ -166,7 +166,7 @@
     alt="Tailwind CSS"
     title="Tailwind CSS"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- BOOTSTRAP -->
@@ -176,7 +176,7 @@
     alt="Bootstrap"
     title="Bootstrap"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- MATERIAL UI -->
@@ -186,7 +186,7 @@
     alt="Material UI"
     title="Material UI"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- JEST -->
@@ -196,7 +196,7 @@
     alt="Jest"
     title="Jest"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- FIGMA -->
@@ -206,7 +206,7 @@
     alt="Figma"
     title="Figma"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- VS CODE -->
@@ -216,7 +216,7 @@
     alt="VS Code"
     title="VS Code"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- GIT -->
@@ -226,7 +226,7 @@
     alt="Git"
     title="Git"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   />
 
   <!-- GRAPHQL -->
@@ -236,9 +236,9 @@
     alt="GraphQL"
     title="GraphQL"
     height="64px"
-    style="  "
+    style="vertical-align:top; margin: 4px"
   /> -->
-
-<div>and many more...</div>
-
 </div>
+
+### and many more....
+
