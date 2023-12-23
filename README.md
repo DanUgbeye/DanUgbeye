@@ -14,7 +14,7 @@
 
 - #### I have experience building both the Frontend and Backend of Web applications ✅
 
-- #### I’m currently working as a freelancer ✅
+- #### I’m available to work as a freelancer ✅
 
 - #### I'm also good at using C++ for Arduino based IoT projects ✅
 
