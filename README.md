@@ -42,7 +42,7 @@
 <!-- GITHUB STATISTICS -->
 ![My github stats](https://github-readme-stats.vercel.app/api?username=DanUgbeye&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=center)
 <!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=DanUgbeye&currStreakNum=2FD3EB&fire=pink&sideLabels=F00&theme=nightowl)](https://git.io/streak-stats)
+[![GitHub Streak](https://github-readme-streak-stats-olive-ten.vercel.app?user=DanUgbeye&theme=dark)](https://git.io/streak-stats)
 
 <br>
 
