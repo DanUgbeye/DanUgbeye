@@ -10,11 +10,9 @@
 
 ---
 
-- #### I am Daniel Ugbeye, a Full Stack Web Developer ✅
+- #### I am Daniel Ugbeye, a Full Stack Software Engineer focused on web technologies ✅
 
-- #### I have experience building both the Frontend and Backend of Web applications ✅
-
-- #### I’m available to work as a freelancer ✅
+- #### I have extensive experience building both the Frontend and Backend of Web applications ✅
 
 - #### I'm also good at using C++ for Arduino based IoT projects ✅
 
