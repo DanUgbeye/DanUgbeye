@@ -1,168 +1,53 @@
-<!-- README FILE CODE -->
+# 👋 Welcome to My Profile
 
-<!-- WAKING HAND WITH GOOD TO HAVE YOU TEXT-->
+## About Me  
 
-# 👋 WELCOME TO MY PROFILE
-
-<!--ABOUT ME CODE-->
-
-### 🌱 **About Me**
-
----
-
-- #### I am Daniel Ugbeye, a Full Stack Software Engineer focused on web technologies ✅
-
-- #### I have extensive experience building both the Frontend and Backend of Web applications ✅
-
-- #### I'm also good at using C++ for Arduino based IoT projects ✅
-
-- #### I love learning new technologies ✅
+I’m **Daniel Ugbeye**, a **Full Stack Software Engineer** with 5+ years of experience delivering scalable, high-quality web applications.  
+I work across both **Frontend** and **Backend**, and I also enjoy experimenting with **Arduino-based IoT projects** using C++.  
 
 <br>
 
-<!-- SOCIAL MEDIA HANDLES -->
+## 🌍 Connect with Me  
 
-<div style=" display: flex; column-gap: 16px; justify-content: center; flex-wrap: wrap;">
-
-[![Linkedin Badge](https://img.shields.io/badge/-DanielUgbeye-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielugbeye/)](https://www.linkedin.com/in/danielugbeye/)
-[![Gmail Badge](https://img.shields.io/badge/-ugbeyellionz@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:ugbeyellionz@gmail.com)](mailto:ugbeyellionz@gmail.com)
-
-</div>
-
-<!-- STATISTICS ABOUT PROFILE -->
-
-## 📶 GitHub Stats
+- **LinkedIn**: [linkedin.com/in/danielugbeye](https://www.linkedin.com/in/danielugbeye/)  
+- **Email**: [ugbeyellionz@gmail.com](mailto:ugbeyellionz@gmail.com)  
 
 <br>
 
-<!--  TOP LANGUAGES STATISTICS -->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanUgbeye&theme=dark&layout=compact&align=center&width=100%)](https://github.com/anuraghazra/github-readme-stats)
-<!-- GITHUB STATISTICS -->
-![My github stats](https://github-readme-stats.vercel.app/api?username=DanUgbeye&show_icons=true&title_color=fff&icon_color=79ff97&text_color=9f9f9f&bg_color=151515&count_private=true&width=40%&align=center)
-<!--  CONTRIBUTION AND STREAK BLOCK -->
-[![GitHub Streak](https://github-readme-streak-stats-olive-ten.vercel.app?user=DanUgbeye&theme=dark)](https://git.io/streak-stats)
+## 💻 Tech Stack  
+
+- **Languages**: TypeScript, JavaScript, C++, HTML, CSS  
+- **Frameworks**: React, Next.js, Node.js, Express.js  
+- **Styling**: Tailwind CSS, Bootstrap, Material UI  
+- **Databases**: Firebase, MongoDB, PostgreSQL  
+- **Other Tools**: Jest, Figma, Git, VS Code  
 
 <br>
 
-<!--  PROFILES VIEWS -->
+## 🚀 Focus Areas & Expertise  
 
-## 🌱 **Profile Views**
-
-![visitors](https://profile-counter.glitch.me/DanUgbeye/count.svg?align=center)
+- Full Stack Development & Scalable Architectures  
+- API Design & Integrations (REST & GraphQL)  
+- AI Assistants & Business Chatbots  
+- FinTech Solutions (Stripe billing, financial dashboards, stock analysis)  
+- IoT & Embedded Systems with C++  
+- Cloud & DevOps (Docker, Supabase, server optimization)  
+- Web Security (2FA, OAuth, reCAPTCHA)  
+- UI/UX Implementation & Design Systems  
 
 <br>
 
-<!-- STACK, LANUAGES AND TOOLS -->
+## 🤝 Consultancy  
 
-## 💻👨‍💻Tech Stack, Languages and Tools
+Available for **consultancy opportunities** in:  
+- Web & SaaS Development  
+- AI & Business Automation  
+- Financial Technology  
+- IoT Solutions  
+- Cloud Setup & Optimization  
 
 <br>
 
-<div
-  style="display: flex; row-gap: 16px; column-gap: 16px; justify-content: space-between; align-items: center; flex-wrap: wrap; padding-inline: 8px; padding-block: 8px"
-><!-- TYPESCRIPT --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"
-    alt="Typescript"
-    title="Typescript"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- JAVASCRIPT --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"
-    alt="Javascript"
-    title="Javascript"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- NODE --><img
-    src="https://static-00.iconduck.com/assets.00/node-js-icon-454x512-nztofx17.png"
-    alt="Node JS"
-    title="Node JS"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- NEXT JS --><img
-    src="https://seeklogo.com/images/N/next-js-icon-logo-EE302D5DBD-seeklogo.com.png"
-    alt="Next JS"
-    title="Next JS"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- REACT --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"
-    alt="React"
-    title="React"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- HTML --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"
-    alt="HTML"
-    title="HTML"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- CSS --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"
-    alt="CSS"
-    title="CSS"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- EXPRESS JS --><img
-    src="https://images.tute.io/media/topics/icons/express-js.png"
-    alt="Express JS"
-    title="Express JS"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- FIREBASE --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/firebase/firebase.png"
-    alt="Firebase"
-    title="Firebase"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- TAILWIND CSS --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/tailwind/tailwind.png"
-    alt="Tailwind CSS"
-    title="Tailwind CSS"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- BOOTSTRAP --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/bootstrap/bootstrap.png"
-    alt="Bootstrap"
-    title="Bootstrap"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- MATERIAL UI --><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/materialui-colored.svg"
-    alt="Material UI"
-    title="Material UI"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- JEST --><img
-    src="https://iconape.com/wp-content/png_logo_vector/jest-logo.png"
-    alt="Jest"
-    title="Jest"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- FIGMA --><img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg"
-    alt="Figma"
-    title="Figma"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- VS CODE --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"
-    alt="VS Code"
-    title="VS Code"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> <!-- GIT --><img
-    src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"
-    alt="Git"
-    title="Git"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  />  <!-- GRAPHQL --><!-- <img
-    src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg"
-    alt="GraphQL"
-    title="GraphQL"
-    height="64px"
-    style="vertical-align:top; margin: 4px"
-  /> -->
-</div>
+## 📊 Top Languages  
 
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanUgbeye&theme=dark&layout=compact)
