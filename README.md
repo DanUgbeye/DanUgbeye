@@ -45,9 +45,10 @@ Available for **consultancy opportunities** in:
 - Financial Technology  
 - IoT Solutions  
 - Cloud Setup & Optimization  
-
+<!--
 <br>
 
 ## 📊 Top Languages  
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanUgbeye&theme=dark&layout=compact)
+-->
